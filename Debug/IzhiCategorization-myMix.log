@@ -1,0 +1,32 @@
+﻿  Agent.cpp
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.h(51,49): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.h(67,84): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+  IzhiCategorization-myMix.cpp
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\Agent.h(24,56): warning C4244:  'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.h(51,49): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.h(67,84): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+  IzhiNN.cpp
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\Agent.h(24,56): warning C4244:  'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.h(51,49): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.h(67,84): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.cpp(43,23): warning C4244:  'argumento': conversión de 'double' a 'EltType'; posible pérdida de datos
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.cpp(43,23): warning C4244:         with
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.cpp(43,23): warning C4244:         [
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.cpp(43,23): warning C4244:             EltType=int
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.cpp(43,23): warning C4244:         ]
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.cpp(45,27): warning C4244:  'argumento': conversión de 'double' a 'EltType'; posible pérdida de datos
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.cpp(45,27): warning C4244:         with
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.cpp(45,27): warning C4244:         [
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.cpp(45,27): warning C4244:             EltType=int
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.cpp(45,27): warning C4244:         ]
+  IzhiNNArch.cpp
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.cpp(152,223): warning C4244:  '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNNArch.cpp(15,38): warning C4305:  '=': truncamiento de 'double' a 'float'
+  NervousSystem.cpp
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNNArch.cpp(16,37): warning C4305:  '=': truncamiento de 'double' a 'float'
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.h(51,49): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+C:\Users\lucho\source\repos\IzhiCategorization-myMix\IzhiCategorization-myMix\IzhiNN.h(67,84): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificación '/PROFILE'
+Agent.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:REF'
+  IzhiCategorization-myMix.vcxproj -> C:\Users\lucho\source\repos\IzhiCategorization-myMix\Debug\IzhiCategorization-myMix.exe
